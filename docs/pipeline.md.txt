@@ -1,0 +1,19 @@
+MindTrail – Project Pipeline
+
+Problem Statement:
+Students struggle to choose a career path. MindTrail is an AI system that recommends suitable careers based on their interests, skills, and academics.
+
+How it works:
+1. User enters profile (skills, interests, grades).
+2. System cleans and prepares data.
+3. Machine Learning model predicts top 3 careers.
+4. Recommendations are shown with confidence scores.
+
+Tools used:
+- Python (for model)
+- Pandas & NumPy (for data)
+- scikit-learn (for ML)
+- Streamlit (for UI)
+
+Output:
+An interactive career recommendation web app that suggests 3 best-fit careers.
