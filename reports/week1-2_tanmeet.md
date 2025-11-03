@@ -10,11 +10,3 @@
   - Career distribution chart.
 - Saved cleaned dataset for model training.
 
-## Key Insights
-- Data has 10 numeric attributes (aptitude + personality).
-- "Career" is the output/target variable.
-- No missing values found — dataset ready for ML model.
-
-## Next Steps
-- Share cleaned dataset with Vardaan for model training (Week 3–4).
-- Collaborate with Syna on UI input format for Streamlit.
