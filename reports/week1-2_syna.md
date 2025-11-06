@@ -1,6 +1,6 @@
 # Week 1-2 Progress Report (Syna)
 
-##Tasks completed
+## Tasks completed
 - Searched for and shortlisted potential datasets related to career prediction and aptitude profiling from Kaggle.
 - Finalized the dataset career_dataset.csv as the base dataset for model training after verifying completeness and relevance.
 - Loaded the dataset successfully in Jupyter Notebook using pandas and confirmed the correct shape and column structure.
