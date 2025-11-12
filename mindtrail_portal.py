@@ -45,7 +45,7 @@ st.markdown("""
 @st.cache_data
 def load_data():
     # Load your internal dataset
-    df = pd.read_csv(r"C:\Users\sonyn\OneDrive\Documents\GitHub\MindTrail\data\cleaned_dataset_week3.csv")
+    df = pd.read_csv("data/cleaned_dataset_week3.csv")
     return df
 
 # --------------------------- APP LAYOUT ---------------------------
