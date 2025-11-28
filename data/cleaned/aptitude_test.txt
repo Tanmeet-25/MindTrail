@@ -1,0 +1,310 @@
+1. A number increases by 20% and then decreases by 25%. What is the net percentage change?
+A. –10%
+B. –5%
+C. 0%
+D. +5%
+
+2. If 
+
+3x − 2 = 7 + 4x
+
+3x−2=7+4x, what is 
+
+x
+
+x?
+A. –9
+B. 9
+C. –5
+D. 5
+
+3. The ratio of boys to girls in a class is 5:7. If there are 84 students, how many boys are there?
+A. 35
+B. 36
+C. 30
+D. 40
+
+4. A shopkeeper marks a product 40% above cost price and gives a 25% discount. What is the profit percentage?
+A. 5%
+B. 10%
+C. 15%
+D. 20%
+
+5. What is the sum of the first 20 even numbers?
+A. 400
+B. 420
+C. 380
+D. 440
+
+6. A cube is painted black on all six faces and cut into 64 equal cubes (4×4×4). How many small cubes have exactly oneface painted?
+A. 24
+B. 36
+C. 16
+D. 48
+
+7. A figure is rotated 180°. Which property is not guaranteed to remain the same?
+A. Area
+B. Orientation
+C. Shape
+D. Size
+
+8. Which net cannot form a cube?
+A. A T-shape with 4 squares in a line and 1 on each side
+B. A cross of 5 squares with one attached
+C. A zig-zag of 6 squares
+D. A plus (+) shape of 5 squares with 1 extra
+
+9. Which view (top, front, side) will change most if a shape has large overhangs?
+A. Top view
+B. Front view
+C. Side view
+D. All views equally
+
+10. A shape is symmetrical horizontally and vertically. Which transformation leaves it unchanged?
+A. 90° rotation
+B. 180° rotation
+C. Reflection only
+D. Translation only
+
+11. Which figure has the fewest intersections?
+A. A triangle over a square
+B. Two overlapping circles
+C. A star inside a pentagon
+D. A hexagon intersecting a triangle
+
+12. In a set of 5 nearly identical symbols, one has a small tilt. What type of error is this?
+A. Distortion error
+B. Orientation error
+C. Position error
+D. Symmetry error
+
+13. If a pattern flashes briefly and a dot was at the 4th position from the left, which method best helps recall?
+A. Chunking
+B. Linear scanning
+C. Reverse ordering
+D. Logical grouping
+
+14. Which image pair is not perceptually equivalent?
+A. Rotated versions
+B. Reflected versions
+C. Scaled versions
+D. Distorted versions
+
+15. A figure has 12 hidden triangles. If one extra diagonal is added, how many new triangles are minimum added?
+A. 1
+B. 2
+C. 3
+D. 4
+
+16. A sequence increases sides by pattern: 3 → 4 → 6 → 9 → ?. What comes next?
+A. 12
+B. 13
+C. 15
+D. 18
+
+17. Which rule is most complex?
+A. Alternating shading
+B. Increasing shape size
+C. Rotating direction + increasing count
+D. Simple flip
+
+18. If ▲ → ■ means “add 1 side,” and ■ → ⬟ means “add 2 sides,” what follows: ▲, ■, ⬟, ?
+A. Octagon
+B. Pentagon
+C. Heptagon
+D. Nonagon
+
+19. In a pattern, each shape rotates 45° more than the previous. If the first rotates 45°, the 4th will rotate:
+A. 90°
+B. 135°
+C. 180°
+D. 225°
+
+20. Which analogy completes?
+Circle : Sphere :: Square : ?
+A. Cube
+B. Pyramid
+C. Cylinder
+D. Cone
+
+21. Choose the best synonym for “meticulous”:
+A. Careless
+B. Precise
+C. Moderate
+D. Quick
+
+22. Which sentence uses “sanction” correctly?
+A. He sanctioned the ball to the roof.
+B. The committee sanctioned the new policy.
+C. She sanctioned quickly to the door.
+D. They sanctioned the table.
+
+23. Which analogy is correct?
+A. Author : Book :: Chef : Recipe
+B. Doctor : Disease :: Tailor : Cloth
+C. Knife : Cut :: Paint : Brush
+D. Teacher : Student :: Pen : Paper
+
+24. A conclusion must be drawn:
+“All programmers are logical. Some logical people are introverts.”
+A. All introverts are programmers
+B. Some programmers may be introverts
+C. No programmer is an introvert
+D. Programmers are extroverts
+
+25. The opposite of “ambiguous” is:
+A. Vague
+B. Clear
+C. Blunt
+D. Minor
+
+26. High openness correlates most with:
+A. Routine preference
+B. Creativity
+C. Conformity
+D. Rule-following
+
+27. Which activity signals high openness?
+A. Avoiding new experiences
+B. Exploring abstract art
+C. Repeating old habits
+D. Staying in comfort zones
+
+28. People high in openness typically score low in:
+A. Imagination
+B. Curiosity
+C. Resistance to change
+D. Creativity
+
+29. A person who enjoys philosophical debates shows:
+A. Low openness
+B. Medium openness
+C. High openness
+D. No openness relevance
+
+30. Which trait often accompanies openness?
+A. Narrow interests
+B. Traditional thinking
+C. Broad curiosity
+D. Rigidity
+
+31. High conscientiousness predicts:
+A. Poor planning
+B. Impulsiveness
+C. Reliability
+D. Carelessness
+
+32. A conscientious person is least likely to:
+A. Meet deadlines
+B. Forget tasks
+C. Organize tasks
+D. Check details
+
+33. Which behaviour reflects conscientiousness?
+A. Submitting sloppy work
+B. Making schedules
+C. Skipping responsibilities
+D. Relying on luck
+
+34. Conscientious people usually:
+A. Procrastinate heavily
+B. Work systematically
+C. Ignore structure
+D. Prefer chaos
+
+35. High conscientiousness correlates with:
+A. Emotional instability
+B. High accuracy
+C. Laziness
+D. Disorder
+
+36. Extraverts usually prefer:
+A. Solitary work
+B. Large social gatherings
+C. Isolation
+D. Minimal interaction
+
+37. A highly extraverted person:
+A. Feels drained by people
+B. Avoids attention
+C. Enjoys social energy
+D. Prefers silence
+
+38. Extraversion is linked to:
+A. Assertiveness
+B. Withdrawn behaviour
+C. Low sociability
+D. Quiet preference
+
+39. Which is NOT a trait of extraversion?
+A. Enthusiasm
+B. Talkativeness
+C. Sociability
+D. Reservedness
+
+40. Extraverts gain energy by:
+A. Being alone
+B. Thinking quietly
+C. Social interaction
+D. Intellectual analysis
+
+41. High agreeableness is associated with:
+A. Aggression
+B. Cooperation
+C. Hostility
+D. Conflict-seeking
+
+42. A highly agreeable person tends to:
+A. Insult frequently
+B. Seek harmony
+C. Create fights
+D. Manipulate others
+
+43. Agreeable people usually:
+A. Trust others
+B. Doubt everyone
+C. Dislike kindness
+D. Prefer arguments
+
+44. Which trait contradicts agreeableness?
+A. Empathy
+B. Altruism
+C. Hostility
+D. Warmth
+
+45. High agreeableness predicts:
+A. Rudeness
+B. Compromise
+C. Harshness
+D. Domination
+
+46. High neuroticism indicates:
+A. Calmness
+B. Worry-proneness
+C. Emotional balance
+D. Stability
+
+47. A person low in emotional stability may:
+A. Stay calm under stress
+B. Panic easily
+C. Handle pressure well
+D. Recover quickly
+
+48. Which behaviour signals high neuroticism?
+A. Quick emotional recovery
+B. Rare worrying
+C. Frequent mood swings
+D. High resilience
+
+49. Emotional stability is the opposite of:
+A. Openness
+B. Extraversion
+C. Neuroticism
+D. Agreeableness
+
+50. High emotional stability predicts:
+A. Stress tolerance
+B. Anxiety
+C. Fear
+D. Overthinking
+
